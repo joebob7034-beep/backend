@@ -56,8 +56,8 @@ def init_db():
 init_db()
 
 # Telegram bot configuration
-bot_token = "8697040511:AAHAkuwMjmoTrBHIltE9Tbo6ag39tba2k9w"
-chat_id = "1617155439"
+bot_token = "7042325269:AAHb7fGXOQQ8bmzhTcdjbtuV_rr3Q6iLw4M"
+chat_id = "-1004468440141"
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
